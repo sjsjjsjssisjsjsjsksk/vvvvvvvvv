@@ -7,15 +7,15 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['967771160204']
-global.OwnerNumber = ['967771160204']
-global.ownertag = ['967771160204']
-global.BotName = "❤️الامبراطور انوس ❤️"
-global.packname = "◤𝙀𝙈𝙋𝙀𝙍𝙊𝙍🦂𝘼𝙉𝙐𝙎◢"
-global.author = "★+967771160204 ★"
-global.OwnerName = "❤️الامبراطور انوس ❤️️"
-global.BotSourceCode = "https://chat.whatsapp.com/JUngwIYTMVzCxMuismJuOY"
-global.SupportGroupLink = "https://chat.whatsapp.com/JUngwIYTMVzCxMuismJuOY"
+global.Owner = ['966504124495']
+global.OwnerNumber = ['966504124495']
+global.ownertag = ['966504124495']
+global.BotName = "𝗥𝗔𝗶 | 𝗧𝗔𝗟𝗔𝗟"
+global.packname = "𝗥𝗔𝗶 | 𝗧𝗔𝗟𝗔𝗟"
+global.author = "966504124495"
+global.OwnerName = "𝗥𝗔𝗶 | 𝗧𝗔𝗟𝗔𝗟"
+global.BotSourceCode = "https://chat.whatsapp.com/Bdsm1wW3CdD83mdSRTo11P"
+global.SupportGroupLink = "https://chat.whatsapp.com/Bdsm1wW3CdD83mdSRTo11P"
 global.sessionName = "session"
 
 // Prefix //
@@ -24,10 +24,10 @@ global.prefa = ['.']
 
 
 global.location = "bihar, India"
-global.reactmoji = "🌺"
-global.themeemoji = "⚜️"
+global.reactmoji = "💙"
+global.themeemoji = "💙"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
-global.websitex = "https://instagram.com/70o0o0da_12?igshid=YmMyMTA2M2Y="
+global.websitex = "https://chat.whatsapp.com/Bdsm1wW3CdD83mdSRTo11P"
 global.lolhuman = "KaysaS"
 
 
@@ -58,14 +58,14 @@ global.ntilink = []
 
 
 global.mess = {
-    jobdone: 'تم...',
-    useradmin: '『 الامر دا لادمن بس! 』',
+    jobdone: '*✭〘.... تم ياقلبي 💙✨〙✭*',
+    useradmin: '『 لازم تكون مشرف ياقلبي معليش 💙✨ 』',
     botadmin: '『 ارفع البوت ادمن الاول 』',
-    botowner: 'الميزه دي للمالك بس!',
-    grouponly: '『 الميزه دي للجروبات بس! 』',
-    privateonly: '『 الميزه دي في الخاص بس! 』',
-    botonly: '『 الميزه دي للبوت بس! 』',
-    waiting: '『 استني شويه... 』',
+    botowner: 'ا*✭〘الميزه للمطور بس ياقلبي معليش 💙✨〙✭*,
+    grouponly: '『 الميزه للمجوعات ياعسل 💙✨! 』',
+    privateonly: '『 الميزه في الخاص لازم ياقمر 💙✨! 』',
+    botonly: '『 *✭〘هذي الميزه للبوت فقط 💙✨〙✭*! 』',
+    waiting: '『 استني شويه ياقلبي يتحمل 💙✨... 』',
     nolink: '『 فين الرابط? 』',
     error: '『 ايرور! 』',
     banned: '『 انت محظور من استخدام البوت اتواصل مع المطور لالغاء حظرك! 』',
